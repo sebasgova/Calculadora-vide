@@ -6,3 +6,16 @@ align-items:center;
 background:linear-gradient(135deg,#6a8cff,#b48cff);
 font-family:Arial;
 }
+
+.calculadora{
+padding:30px;
+border-radius:20px;
+text-align:center;
+
+background:rgba(255,255,255,0.2);
+backdrop-filter:blur(10px);
+border:1px solid rgba(255,255,255,0.3);
+
+box-shadow:8px 8px 15px rgba(0,0,0,0.2),
+-8px -8px 15px rgba(255,255,255,0.2);
+}
