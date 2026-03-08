@@ -19,3 +19,25 @@ border:1px solid rgba(255,255,255,0.3);
 box-shadow:8px 8px 15px rgba(0,0,0,0.2),
 -8px -8px 15px rgba(255,255,255,0.2);
 }
+
+input{
+display:block;
+margin:10px auto;
+padding:8px;
+border-radius:10px;
+border:none;
+
+box-shadow:inset 3px 3px 6px rgba(0,0,0,0.2),
+inset -3px -3px 6px rgba(255,255,255,0.4);
+}
+
+button{
+margin-top:10px;
+padding:10px 20px;
+border:none;
+border-radius:10px;
+cursor:pointer;
+
+box-shadow:4px 4px 8px rgba(0,0,0,0.2),
+-4px -4px 8px rgba(255,255,255,0.3);
+}
